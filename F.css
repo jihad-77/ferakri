@@ -20,4 +20,5 @@ button{
     height: 50px;
     outline: none;
     margin-top: 10px;
+    cursor: pointer;
 }
