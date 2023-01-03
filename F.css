@@ -1,11 +1,23 @@
 .a{
     background-color: red;
-    height: 100vh;
-    width: 100vw;
+    height: 50vh;
+    width: 50vw;
+    margin: auto;
+    padding: 78px;
     
 }
 .b{
     background-color: blue;
-    height: 100px;
-    width: 100px;
+    height: 50%;
+    width: 50%;
+    padding: 20px 10px;
+}
+button{
+    background-color: red;
+    color: white;
+    text-align: center;
+    width: 90px;
+    height: 50px;
+    outline: none;
+    margin-top: 10px;
 }
