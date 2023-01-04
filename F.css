@@ -1,6 +1,5 @@
-ul{
-    background-color: aqua;
-}
-li{
-    display:block ;
+p{
+    background-color: rgb(130, 251, 96);
+    border: black 2px solid ;
+    display: inline;
 }
