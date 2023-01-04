@@ -1,10 +1,6 @@
-.a{
-    height: 200px;
-    width: 200px;
-    background-color:blue;
+ul{
+    background-color: aqua;
 }
-.b{
-    height: 100px;
-    width: 100px;
-    background-color: rgb(62, 42, 42);
+li{
+    display:block ;
 }
