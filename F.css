@@ -1,14 +1,10 @@
 .a{
-    background-color: red;
-    font-size: 2em;
-    height: 10em;
-    width: 10em;
-    
+    height: 200px;
+    width: 200px;
+    background-color:blue;
 }
 .b{
-    background-color: blue;
-    font-size: 0.0001;
-    height: 0.1em;
-    width: 0.1em;
-    
+    height: 100px;
+    width: 100px;
+    background-color: rgb(62, 42, 42);
 }
