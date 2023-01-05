@@ -21,7 +21,8 @@ img{
     display: flex;
     flex-direction: row;
     margin-top: 25px;
-    background-color:snow;
+    border-radius: 2px;
+
     
 }
 h5{
