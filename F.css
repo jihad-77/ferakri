@@ -1,5 +1,17 @@
-p{
-    background-color: rgb(130, 251, 96);
-    border: black 2px solid ;
-    display: inline;
+.flex{
+    display: flex;
+    flex-direction:column-reverse;
+    background-color: dodgerblue;
+    width: 20px;
+    border-radius: 20px 1px ;
+}
+.flex div{
+    background-color:greenyellow;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 25px;
+    border-radius: 5px 10px;
+    
 }
