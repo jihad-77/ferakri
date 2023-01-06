@@ -105,6 +105,7 @@ h2{
     color:orangered;
     display: flex;
     width: 460px;
+    border-left: orangered solid 2px;
 }
 h3{
 color:orangered;
