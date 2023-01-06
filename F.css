@@ -74,6 +74,55 @@ a{
     height: 150px;
     border-radius: 110px;
 }
+section{
+    display: flex;
+    flex-direction: row;
+    letter-spacing: 3px;
+    justify-content: space-between;
+    color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.right{
+    margin-right: 90px;
+}
+.left{
+    margin-left: 10px;
+    
+}
+ul{
+    color: snow;
+    width: 430px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+li{
+    margin-bottom: 13px;
+}
+h2{
+    color: snow;
+}
+
+.skills{
+    display: flex;
+    width: 370px;
+    border-left: orangered solid 2px;
+}
+.ull{
+    list-style-type: none;
+}
+.backend{
+    border-left: orangered solid 2px;
+}
+.languge{
+    color:orangered;
+
+}
+
+
+
+
 
 
 
