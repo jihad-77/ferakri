@@ -84,18 +84,16 @@ section{
 }
 .right{
     margin-right: 90px;
+   
 }
 .left{
     margin-left: 10px;
-    
 }
 ul{
     color: snow;
     width: 430px;
     display: flex;
     flex-direction: column;
-    
-    
 }
 li{
     margin-bottom: 13px;
@@ -111,13 +109,20 @@ h2{
 }
 .ull{
     list-style-type: none;
+    
+
 }
 .backend{
     border-left: orangered solid 2px;
 }
 .languge{
     color:orangered;
+    display: flex;
+    width: 460px;
 
+}
+h3{
+color:orangered;
 }
 
 
